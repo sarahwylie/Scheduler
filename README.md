@@ -10,4 +10,4 @@ A daily calendar scheduling site for busy employees.
 https://sarahwylie.github.io/Scheduler/
 
 ##Contribution
-Made with heart and cold_sweat by Sarah Wylie
+Made with :heart: and :cold_sweat: by Sarah Wylie
