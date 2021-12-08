@@ -73,4 +73,5 @@ textarea {
 
 .userData {
   flex-grow: 3 ;
+  white-space: pre-wrap;
 }
