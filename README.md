@@ -16,7 +16,7 @@ Do you ever fall into a hole at work and completely lose track of time? Are you 
 Strart earning those brown-nosing points and head over to [Scheduler](https://sarahwylie.github.io/Scheduler/)! 
 
 ## Output:
-![Screenshot](./Screenshot.png)
+![Scheduler](https://user-images.githubusercontent.com/90208612/161393287-a3a21e45-816e-44bd-8166-a0b257a4e66a.png)
 
 ## Tests
 No tests were used to create this project.
